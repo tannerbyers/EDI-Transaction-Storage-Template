@@ -1,0 +1,1 @@
+# EDI-Transaction-Storage-Template
